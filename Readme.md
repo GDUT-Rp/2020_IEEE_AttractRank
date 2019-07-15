@@ -18,8 +18,8 @@ Position：Guangzhou, China
 | Column       | Explanation                         |
 | ------------ | ----------------------------------- |
 | id           | Primary key                         |
-| from_idx     | The Ordinal of  departure place's   |
-| to_idx       | The Ordinal of  destination place's |
+| from_idx     | The ordinal of  departure place's   |
+| to_idx       | The ordinal of  destination place's |
 | date_month   | month                               |
 | date_day     | day                                 |
 | date_hour    | hour                                |
