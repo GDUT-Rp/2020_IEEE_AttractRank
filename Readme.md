@@ -1,4 +1,4 @@
-### IEEE 2019
+### 2019 IEEE Transactions on Systems, Man, and Cybernetics: Systems
 #### Title:AttractRank: District Attraction Ranking Analysis Based on Taxi Big Data
 #### Our taxi statistic data is made publicly available for academic research usage.
 
