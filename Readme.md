@@ -1,4 +1,4 @@
-### Cikm 2019
+### IEEE 2019
 #### Title:AttractRank: District Attraction Ranking Analysis Based on Taxi Big Data
 #### Our taxi statistic data is made publicly available for academic research usage.
 
