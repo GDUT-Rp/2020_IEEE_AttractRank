@@ -1,6 +1,8 @@
-### 2020 IEEE Transactions on Industrial Informatics
-#### Title:AttractRank: District Attraction Ranking Analysis Based on Taxi Big Data
-#### Our taxi statistic data is made publicly available for academic research usage.
+# 2020 IEEE Transactions on Industrial Informatics
+## AttractRank: District Attraction Ranking Analysis Based on Taxi Big Data
+**Our taxi statistic data and codes are made publicly available for academic research usage.**
+
+### source.csv
 
 
 ##### Data Introduction:
@@ -43,3 +45,17 @@ Position：Guangzhou, China
 | 9    | 0        | 10     | 2          | 1        | 0         | 1            |
 | 10   | 0        | 11     | 2          | 1        | 0         | 10           |
 
+
+### attractrank.py
+This is the code of our attractrank algorithm.
+
+
+### Data_visualization_application_system
+This is the open source code of our visualization application system.
+
+
+### distance_matrix.csv
+This is the distance matrix required by our algorithm.
+
+### districts_details.csv
+This is the detailed data about districts of the Guangzhou that we divided, including the latitude and longitude point of the center of each area, and the set of latitude and longitude points of the outer contour of each area, etc.
