@@ -29,5 +29,5 @@ for row in od.iterrows():
     od_matrix[row['from_idx'], row['to_idx']] = row['route_weight']
 
 distance_matrix = pd.read_csv('distance_matrix.csv')
-ar = attractrank(od_matrix, distance_matrix)
+ar = attractrank(od_matrix, distance_matrix.iloc[:, 1:])
 print(ar)
